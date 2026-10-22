@@ -1,0 +1,23 @@
+# Ignore backend data folder
+/backend/data/
+
+# Ignore environment variables
+.env
+backend/.env
+
+
+# Ignore environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
